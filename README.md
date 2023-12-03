@@ -1,1 +1,2 @@
-
+Hidden Markov models (HMMs) are sequence models. That is, given a sequence of inputs, such as words, an HMM will compute a sequence of outputs of the same length. An HMM model is a graph where nodes are probability distributions over labels and edges give the probability of transitioning from one node to the other.
+The above piece of code is a HMM for a weather prediction based upon previous data. 
